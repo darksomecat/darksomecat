@@ -58,9 +58,6 @@
 
 ## 🎓 Дипломные работы
 
-[![12 STOREEZ](https://github-readme-stats.vercel.app/api/pin/?username=darksomecat&repo=12_storeez_at&title_color=D1B3E8&text_color=E6C9F0&icon_color=F4A9C4&bg_color=30,1c0f26,3a2150&hide_border=true)](https://github.com/darksomecat/12_storeez_at)
-[![github_api_at](https://github-readme-stats.vercel.app/api/pin/?username=darksomecat&repo=github_api_at&title_color=D1B3E8&text_color=E6C9F0&icon_color=F4A9C4&bg_color=30,1c0f26,3a2150&hide_border=true)](https://github.com/darksomecat/github_api_at)
-
 - **12 STOREEZ** — автотесты интернет-магазина и Android-приложения: Java, Selenide, JUnit 5, Gradle, Owner, Appium, BrowserStack, Jenkins, Allure.
 - **github_api_at** — автотесты API GitHub: Java, REST Assured, JUnit 5, Gradle, Allure.
 
